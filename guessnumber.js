@@ -3,7 +3,7 @@ debugger;
 var num = Math.random() * 100;
 var number = Math.floor(num);
 var i = 0;
-var guess = Number(prompt("I'm thinking of a number between 1 and 100. Guess which one??"));
+var guess = Number(prompt("I'm thinking of a number between 1 and 100. Can you guess which one??"));
 
 
 for (i = 1; i <= 5; i++) {
